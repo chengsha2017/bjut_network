@@ -34,8 +34,8 @@ headers = {
 	"Upgrade-Insecure-Requests": "1",
 }
 postData = {
-	"DDDDD": "S201761399", 
-	"upass": "123456",
+	"DDDDD": "", # your account 
+	"upass": "", # your password
 	"v46s": "1",
 	"v6ip": "",	
 	"f4serip": "172.30.201.2",
